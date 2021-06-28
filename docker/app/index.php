@@ -13,13 +13,12 @@
         <!-- Responsive navbar-->
         <main role="main" class="container my-auto">
           <!-- Navigation -->
-          <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+          <nav class="navbar navbar-expand-lgnavbar navbar-dark bg-primary fixed-top">
             <div class="container">
               <a class="navbar-brand" href="#">2.2 Webapp y Docker Hub</a>
               <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
                   <li class="nav-item active">
-                    <a class="nav-link">Fernando Hernandez Vazquez</a>
                 </ul>
               </div>
             </div>

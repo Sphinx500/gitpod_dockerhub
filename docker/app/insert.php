@@ -11,7 +11,7 @@
 <body>
         <main role="main" class="container my-auto">
           <!-- Navigation -->
-          <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+          <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
             <div class="container">
               <a class="navbar-brand" href="#">Insertar registro</a>
               <div class="collapse navbar-collapse" id="navbarResponsive">
@@ -23,7 +23,7 @@
             </div>
           </nav>
           <br></br>
-    <form method="POST" action="insertarformulario.php" class="main-form needs-validation" novalidate>
+    <form method="POST" action="insert_form.php" class="main-form needs-validation" novalidate>
       <br></br>
         <div class="form-group">
             <label for="nombre">Nombre</label>
@@ -48,7 +48,7 @@
     <br></br>
     
     <div style="width: 500px;">
-        <button type="submit" class="btn btn-primary" style="background:#0080FF">Guardar</button>
+        <button type="submit" class="btn btn-success">Guardar</button>
         <a href="index.php"><button type="button" class="btn" style="background:#C0C0C0">Regresar</button></a>
     </div>
     <br></br>
